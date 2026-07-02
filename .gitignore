@@ -1,0 +1,4 @@
+*.nii.gz
+PETAR-4B
+*.pt
+*.pth
